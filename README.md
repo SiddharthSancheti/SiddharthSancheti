@@ -1,3 +1,4 @@
-Nice to meet you! My name is Sid Sancheti.
+Hi! I'm Sid.
 
-I am a third-year Computer Science student at Purdue University. I am pursuing a concentration in Security and Machine Intelligence with a minor in Mathematics. I have a wide array of interest ranging from computer graphics to full-stack dev to low-level programming. 
+I a computer science senior at Purdue University, and a future Google SWE :)
+I like playing around with agent harnesses and building weird projects.
